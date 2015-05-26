@@ -5,6 +5,8 @@ James Halliday
 
 Oakland, California
 
+https://github.com/substack/atthefrontend-2015
+
 ---
 # cyberpunk
 
