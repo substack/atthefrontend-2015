@@ -280,7 +280,7 @@ using http://webtorrent.io
 
 In bittorrent, you hash a file and fetch files by their hash.
 
-In the browser
+In the browser, the server sends you whatever it feels like.
 
 ---
 ## p2p application delivery
